@@ -1,0 +1,3225 @@
+[
+  {
+    "document_number": "2022-21520",
+    "title": "Additions of Entities to the Entity List",
+    "publication_date": "2022-10-04",
+    "effective_on": "2022-09-30",
+    "html_url": "https://www.federalregister.gov/documents/2022/10/04/2022-21520/additions-of-entities-to-the-entity-list",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2022-21658",
+    "title": "Implementation of Additional Export Controls: Certain Advanced Computing and Semiconductor Manufacturing Items; Supercomputer and Semiconductor End Use; Entity List Modification",
+    "publication_date": "2022-10-13",
+    "effective_on": "2022-10-07",
+    "html_url": "https://www.federalregister.gov/documents/2022/10/13/2022-21658/implementation-of-additional-export-controls-certain-advanced-computing-and-semiconductor",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2022-22037",
+    "title": "Procedures for Access to the Public Briefing on Additional Export Controls on Certain Advanced Computing and Semiconductor Manufacturing Items",
+    "publication_date": "2022-10-13",
+    "effective_on": null,
+    "html_url": "https://www.federalregister.gov/documents/2022/10/13/2022-22037/procedures-for-access-to-the-public-briefing-on-additional-export-controls-on-certain-advanced",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2022-21714",
+    "title": "Revisions to the Unverified List; Clarifications to Activities and Criteria That May Lead to Additions to the Entity List",
+    "publication_date": "2022-10-13",
+    "effective_on": "2022-10-07",
+    "html_url": "https://www.federalregister.gov/documents/2022/10/13/2022-21714/revisions-to-the-unverified-list-clarifications-to-activities-and-criteria-that-may-lead-to",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2022-26662",
+    "title": "Implementation of Additional Export Controls: Certain Advanced Computing and Semiconductor Manufacturing Items; Supercomputer and Semiconductor End Use; Entity List Modification",
+    "publication_date": "2022-12-07",
+    "effective_on": "2022-10-13",
+    "html_url": "https://www.federalregister.gov/documents/2022/12/07/2022-26662/implementation-of-additional-export-controls-certain-advanced-computing-and-semiconductor",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2022-26622",
+    "title": "Additions of Entities to the Entity List; Removal of an Entity From the Entity List",
+    "publication_date": "2022-12-08",
+    "effective_on": "2022-12-08",
+    "html_url": "https://www.federalregister.gov/documents/2022/12/08/2022-26622/additions-of-entities-to-the-entity-list-removal-of-an-entity-from-the-entity-list",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2022-27149",
+    "title": "Revisions to the Unverified List and the Entity List",
+    "publication_date": "2022-12-16",
+    "effective_on": "2022-12-16",
+    "html_url": "https://www.federalregister.gov/documents/2022/12/16/2022-27149/revisions-to-the-unverified-list-and-the-entity-list",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2022-27151",
+    "title": "Additions and Revisions to the Entity List and Conforming Removal From the Unverified List",
+    "publication_date": "2022-12-19",
+    "effective_on": "2022-12-16",
+    "html_url": "https://www.federalregister.gov/documents/2022/12/19/2022-27151/additions-and-revisions-to-the-entity-list-and-conforming-removal-from-the-unverified-list",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2022-28033",
+    "title": "Modification to the Entity List",
+    "publication_date": "2022-12-23",
+    "effective_on": "2022-12-21",
+    "html_url": "https://www.federalregister.gov/documents/2022/12/23/2022-28033/modification-to-the-entity-list",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2023-00397",
+    "title": "Implementation of Australia Group Decisions From 2021 and 2022 Virtual Meetings: Controls on Marine Toxins, Plant Pathogens and Biological Equipment",
+    "publication_date": "2023-01-17",
+    "effective_on": "2023-01-17",
+    "html_url": "https://www.federalregister.gov/documents/2023/01/17/2023-00397/implementation-of-australia-group-decisions-from-2021-and-2022-virtual-meetings-controls-on-marine",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2023-00888",
+    "title": "Implementation of Additional Export Controls: Certain Advanced Computing and Semiconductor Manufacturing Items; Supercomputer and Semiconductor End Use; Entity List Modification; Updates to the Controls To Add Macau",
+    "publication_date": "2023-01-18",
+    "effective_on": "2023-01-17",
+    "html_url": "https://www.federalregister.gov/documents/2023/01/18/2023-00888/implementation-of-additional-export-controls-certain-advanced-computing-and-semiconductor",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2023-02130",
+    "title": "Additions to the Entity List",
+    "publication_date": "2023-02-01",
+    "effective_on": "2023-01-31",
+    "html_url": "https://www.federalregister.gov/documents/2023/02/01/2023-02130/additions-to-the-entity-list",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2023-03193",
+    "title": "Additions to the Entity List",
+    "publication_date": "2023-02-14",
+    "effective_on": "2023-02-10",
+    "html_url": "https://www.federalregister.gov/documents/2023/02/14/2023-03193/additions-to-the-entity-list",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2023-03683",
+    "title": "Implementation of 2021 Wassenaar Arrangement Decisions",
+    "publication_date": "2023-02-24",
+    "effective_on": "2023-02-24",
+    "html_url": "https://www.federalregister.gov/documents/2023/02/24/2023-03683/implementation-of-2021-wassenaar-arrangement-decisions",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2023-03927",
+    "title": "Implementation of Additional Sanctions Against Russia and Belarus Under the Export Administration Regulations (EAR) and Refinements to Existing Controls",
+    "publication_date": "2023-02-27",
+    "effective_on": "2023-02-24",
+    "html_url": "https://www.federalregister.gov/documents/2023/02/27/2023-03927/implementation-of-additional-sanctions-against-russia-and-belarus-under-the-export-administration",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2023-04099",
+    "title": "Additions of Entities to the Entity List; Revisions of Entities on the Entity List",
+    "publication_date": "2023-02-27",
+    "effective_on": "2023-02-24",
+    "html_url": "https://www.federalregister.gov/documents/2023/02/27/2023-04099/additions-of-entities-to-the-entity-list-revisions-of-entities-on-the-entity-list",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2023-03929",
+    "title": "Additions of Entities to the Entity List",
+    "publication_date": "2023-02-27",
+    "effective_on": "2023-02-24",
+    "html_url": "https://www.federalregister.gov/documents/2023/02/27/2023-03929/additions-of-entities-to-the-entity-list",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2023-03930",
+    "title": "Export Control Measures Under the Export Administration Regulations (EAR) To Address Iranian Unmanned Aerial Vehicles (UAVs) and Their Use by the Russian Federation Against Ukraine",
+    "publication_date": "2023-02-27",
+    "effective_on": "2023-02-24",
+    "html_url": "https://www.federalregister.gov/documents/2023/02/27/2023-03930/export-control-measures-under-the-export-administration-regulations-ear-to-address-iranian-unmanned",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2023-04558",
+    "title": "Additions and Revisions of Entities to the Entity List",
+    "publication_date": "2023-03-06",
+    "effective_on": "2023-03-02",
+    "html_url": "https://www.federalregister.gov/documents/2023/03/06/2023-04558/additions-and-revisions-of-entities-to-the-entity-list",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2023-06171",
+    "title": "Revisions to the Unverified List",
+    "publication_date": "2023-03-24",
+    "effective_on": "2023-03-24",
+    "html_url": "https://www.federalregister.gov/documents/2023/03/24/2023-06171/revisions-to-the-unverified-list",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2023-06663",
+    "title": "Additions to the Entity List; Amendment To Confirm Basis for Adding Certain Entities to the Entity List Includes Foreign Policy Interest of Protection of Human Rights Worldwide",
+    "publication_date": "2023-03-30",
+    "effective_on": "2023-03-28",
+    "html_url": "https://www.federalregister.gov/documents/2023/03/30/2023-06663/additions-to-the-entity-list-amendment-to-confirm-basis-for-adding-certain-entities-to-the-entity",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2023-07840",
+    "title": "Additions and Revisions of Entities to the Entity List",
+    "publication_date": "2023-04-17",
+    "effective_on": "2023-04-12",
+    "html_url": "https://www.federalregister.gov/documents/2023/04/17/2023-07840/additions-and-revisions-of-entities-to-the-entity-list",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2023-10684",
+    "title": "Addition of Entities to the Entity List",
+    "publication_date": "2023-05-22",
+    "effective_on": "2023-05-19",
+    "html_url": "https://www.federalregister.gov/documents/2023/05/22/2023-10684/addition-of-entities-to-the-entity-list",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2023-10774",
+    "title": "Implementation of Additional Sanctions Against Russia and Belarus Under the Export Administration Regulations (EAR) and Refinements to Existing Controls",
+    "publication_date": "2023-05-23",
+    "effective_on": "2023-05-19",
+    "html_url": "https://www.federalregister.gov/documents/2023/05/23/2023-10774/implementation-of-additional-sanctions-against-russia-and-belarus-under-the-export-administration",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2023-12726",
+    "title": "Additions of Entities to the Entity List and Removal of Entity From the Entity List",
+    "publication_date": "2023-06-14",
+    "effective_on": "2023-06-12",
+    "html_url": "https://www.federalregister.gov/documents/2023/06/14/2023-12726/additions-of-entities-to-the-entity-list-and-removal-of-entity-from-the-entity-list",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2023-13196",
+    "title": "Additions of Entities to the Entity List and Removal of Entity From the Entity List; Correction",
+    "publication_date": "2023-06-21",
+    "effective_on": "2023-06-16",
+    "html_url": "https://www.federalregister.gov/documents/2023/06/21/2023-13196/additions-of-entities-to-the-entity-list-and-removal-of-entity-from-the-entity-list-correction",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2023-13736",
+    "title": "Chemical Weapons Convention Regulations: Reducing the Concentration Level Above Which Mixtures Containing Schedule 2A Chemicals Are Subject to Declaration and Reporting Requirements",
+    "publication_date": "2023-07-03",
+    "effective_on": "2023-07-03",
+    "html_url": "https://www.federalregister.gov/documents/2023/07/03/2023-13736/chemical-weapons-convention-regulations-reducing-the-concentration-level-above-which-mixtures",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2023-15343",
+    "title": "Additions to the Entity List",
+    "publication_date": "2023-07-19",
+    "effective_on": "2023-07-18",
+    "html_url": "https://www.federalregister.gov/documents/2023/07/19/2023-15343/additions-to-the-entity-list",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2023-17243",
+    "title": "Expansion of Nuclear Nonproliferation Controls on the People's Republic of China and Macau",
+    "publication_date": "2023-08-14",
+    "effective_on": "2023-08-11",
+    "html_url": "https://www.federalregister.gov/documents/2023/08/14/2023-17243/expansion-of-nuclear-nonproliferation-controls-on-the-peoples-republic-of-china-and-macau",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2023-18125",
+    "title": "Revisions to the Unverified List",
+    "publication_date": "2023-08-22",
+    "effective_on": "2023-08-22",
+    "html_url": "https://www.federalregister.gov/documents/2023/08/22/2023-18125/revisions-to-the-unverified-list",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2023-18772",
+    "title": "Revisions of Temporary Denial Order Provisions To Allow for Extended Renewals in Certain Circumstances",
+    "publication_date": "2023-08-30",
+    "effective_on": "2023-08-29",
+    "html_url": "https://www.federalregister.gov/documents/2023/08/30/2023-18772/revisions-of-temporary-denial-order-provisions-to-allow-for-extended-renewals-in-certain",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2023-21080",
+    "title": "Addition of Entities and Revision to Existing Entities on the Entity List; Removal of Existing Entity From the Military End User List",
+    "publication_date": "2023-09-27",
+    "effective_on": "2023-09-27",
+    "html_url": "https://www.federalregister.gov/documents/2023/09/27/2023-21080/addition-of-entities-and-revision-to-existing-entities-on-the-entity-list-removal-of-existing-entity",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2023-22536",
+    "title": "Addition of Entities to the Entity List",
+    "publication_date": "2023-10-11",
+    "effective_on": "2023-10-06",
+    "html_url": "https://www.federalregister.gov/documents/2023/10/11/2023-22536/addition-of-entities-to-the-entity-list",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2023-22873",
+    "title": "Existing Validated End-User Authorizations in the People's Republic of China: Samsung China Semiconductor Co. Ltd. and SK Hynix Semiconductor (China) Ltd.",
+    "publication_date": "2023-10-17",
+    "effective_on": "2023-10-17",
+    "html_url": "https://www.federalregister.gov/documents/2023/10/17/2023-22873/existing-validated-end-user-authorizations-in-the-peoples-republic-of-china-samsung-china",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2023-22299",
+    "title": "Implementation of 2022 Wassenaar Arrangement Decisions and Request for Comments on License Exception Eligibility for Certain Supersonic Aero Gas Turbine Engine Component Technology",
+    "publication_date": "2023-10-18",
+    "effective_on": "2023-10-18",
+    "html_url": "https://www.federalregister.gov/documents/2023/10/18/2023-22299/implementation-of-2022-wassenaar-arrangement-decisions-and-request-for-comments-on-license-exception",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2023-23048",
+    "title": "Entity List Additions",
+    "publication_date": "2023-10-19",
+    "effective_on": "2023-10-17",
+    "html_url": "https://www.federalregister.gov/documents/2023/10/19/2023-23048/entity-list-additions",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2023-23049",
+    "title": "Export Controls on Semiconductor Manufacturing Items",
+    "publication_date": "2023-10-25",
+    "effective_on": "2023-11-17",
+    "html_url": "https://www.federalregister.gov/documents/2023/10/25/2023-23049/export-controls-on-semiconductor-manufacturing-items",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2023-23055",
+    "title": "Implementation of Additional Export Controls: Certain Advanced Computing Items; Supercomputer and Semiconductor End Use; Updates and Corrections",
+    "publication_date": "2023-10-25",
+    "effective_on": "2023-11-17",
+    "html_url": "https://www.federalregister.gov/documents/2023/10/25/2023-23055/implementation-of-additional-export-controls-certain-advanced-computing-items-supercomputer-and",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2023-24508",
+    "title": "Entity List Additions",
+    "publication_date": "2023-11-06",
+    "effective_on": "2023-11-02",
+    "html_url": "https://www.federalregister.gov/documents/2023/11/06/2023-24508/entity-list-additions",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2023-23312",
+    "title": "Existing Validated End-User Authorizations in the People's Republic of China: Samsung China Semiconductor Co. Ltd. and SK hynix Semiconductor (China)) Ltd; Correction",
+    "publication_date": "2023-11-08",
+    "effective_on": "2023-11-08",
+    "html_url": "https://www.federalregister.gov/documents/2023/11/08/2023-23312/existing-validated-end-user-authorizations-in-the-peoples-republic-of-china-samsung-china",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2023-25557",
+    "title": "Entity List Removal",
+    "publication_date": "2023-11-17",
+    "effective_on": "2023-11-16",
+    "html_url": "https://www.federalregister.gov/documents/2023/11/17/2023-25557/entity-list-removal",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2023-25684",
+    "title": "Additions to the Entity List",
+    "publication_date": "2023-11-21",
+    "effective_on": "2023-11-17",
+    "html_url": "https://www.federalregister.gov/documents/2023/11/21/2023-25684/additions-to-the-entity-list",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2023-26935",
+    "title": "Addition of Entities to the Entity List",
+    "publication_date": "2023-12-07",
+    "effective_on": "2023-12-07",
+    "html_url": "https://www.federalregister.gov/documents/2023/12/07/2023-26935/addition-of-entities-to-the-entity-list",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2023-26682",
+    "title": "Export Administration Regulations for Missile Technology Items: 2018, 2019, and 2021 Missile Technology Control Regime Plenary Agreements; and License Exception Eligibility",
+    "publication_date": "2023-12-08",
+    "effective_on": "2023-12-08",
+    "html_url": "https://www.federalregister.gov/documents/2023/12/08/2023-26682/export-administration-regulations-for-missile-technology-items-2018-2019-and-2021-missile-technology",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2023-27588",
+    "title": "Export Controls on Semiconductor Manufacturing Items; Implementation of Additional Export Controls: Certain Advanced Computing Items; Supercomputer and Semiconductor End Use; Updates and Corrections; Extension of Comment Period",
+    "publication_date": "2023-12-15",
+    "effective_on": null,
+    "html_url": "https://www.federalregister.gov/documents/2023/12/15/2023-27588/export-controls-on-semiconductor-manufacturing-items-implementation-of-additional-export-controls",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2023-27932",
+    "title": "Removals From the Unverified List",
+    "publication_date": "2023-12-19",
+    "effective_on": "2023-12-15",
+    "html_url": "https://www.federalregister.gov/documents/2023/12/19/2023-27932/removals-from-the-unverified-list",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2023-27928",
+    "title": "Additions to the Unverified List",
+    "publication_date": "2023-12-20",
+    "effective_on": "2023-12-19",
+    "html_url": "https://www.federalregister.gov/documents/2023/12/20/2023-27928/additions-to-the-unverified-list",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2024-01253",
+    "title": "Removals From the Unverified List",
+    "publication_date": "2024-01-23",
+    "effective_on": "2024-01-19",
+    "html_url": "https://www.federalregister.gov/documents/2024/01/23/2024-01253/removals-from-the-unverified-list",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2024-01408",
+    "title": "Implementation of Additional Sanctions Against Russia and Belarus Under the Export Administration Regulations (EAR) and Refinements to Existing Controls",
+    "publication_date": "2024-01-25",
+    "effective_on": "2024-01-23",
+    "html_url": "https://www.federalregister.gov/documents/2024/01/25/2024-01408/implementation-of-additional-sanctions-against-russia-and-belarus-under-the-export-administration",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2024-03674",
+    "title": "Additions of Entities, Revisions of Entries, and Removal of an Entity From the Entity List",
+    "publication_date": "2024-02-27",
+    "effective_on": "2024-02-27",
+    "html_url": "https://www.federalregister.gov/documents/2024/02/27/2024-03674/additions-of-entities-revisions-of-entries-and-removal-of-an-entity-from-the-entity-list",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2024-03969",
+    "title": "Additions of Entities to the Entity List",
+    "publication_date": "2024-02-27",
+    "effective_on": "2024-02-23",
+    "html_url": "https://www.federalregister.gov/documents/2024/02/27/2024-03969/additions-of-entities-to-the-entity-list",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2024-05267",
+    "title": "Clarification of Controls on Radiation Hardened Integrated Circuits and Expansion of License Exception GOV",
+    "publication_date": "2024-03-13",
+    "effective_on": "2024-03-13",
+    "html_url": "https://www.federalregister.gov/documents/2024/03/13/2024-05267/clarification-of-controls-on-radiation-hardened-integrated-circuits-and-expansion-of-license",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2024-05696",
+    "title": "Revisions To Export, Reexport, and Transfer (In-Country) Controls for Nicaragua Under the Export Administration Regulations",
+    "publication_date": "2024-03-15",
+    "effective_on": "2024-03-15",
+    "html_url": "https://www.federalregister.gov/documents/2024/03/15/2024-05696/revisions-to-export-reexport-and-transfer-in-country-controls-for-nicaragua-under-the-export",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2024-06067",
+    "title": "Export Administration Regulations End-User Controls: Imposition of Restrictions on Certain Persons Identified on the List of Specially Designated Nationals and Blocked Persons (SDN List)",
+    "publication_date": "2024-03-21",
+    "effective_on": "2024-03-21",
+    "html_url": "https://www.federalregister.gov/documents/2024/03/21/2024-06067/export-administration-regulations-end-user-controls-imposition-of-restrictions-on-certain-persons",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2024-07004",
+    "title": "Implementation of Additional Export Controls: Certain Advanced Computing Items; Supercomputer and Semiconductor End Use; Updates and Corrections; and Export Controls on Semiconductor Manufacturing Items; Corrections and Clarifications",
+    "publication_date": "2024-04-04",
+    "effective_on": "2024-04-04",
+    "html_url": "https://www.federalregister.gov/documents/2024/04/04/2024-07004/implementation-of-additional-export-controls-certain-advanced-computing-items-supercomputer-and",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2024-07760",
+    "title": "Addition of Entities to and Revision of Entry on the Entity List",
+    "publication_date": "2024-04-11",
+    "effective_on": "2024-04-11",
+    "html_url": "https://www.federalregister.gov/documents/2024/04/11/2024-07760/addition-of-entities-to-and-revision-of-entry-on-the-entity-list",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2024-08446",
+    "title": "Export Control Revisions for Australia, United Kingdom, United States (AUKUS) Enhanced Trilateral Security Partnership",
+    "publication_date": "2024-04-19",
+    "effective_on": "2024-04-19",
+    "html_url": "https://www.federalregister.gov/documents/2024/04/19/2024-08446/export-control-revisions-for-australia-united-kingdom-united-states-aukus-enhanced-trilateral",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2024-08622",
+    "title": "Export Control Measures Under the Export Administration Regulations (EAR) To Address Iranian Aggression Against Israel and Military Support for Russia",
+    "publication_date": "2024-04-22",
+    "effective_on": "2024-04-18",
+    "html_url": "https://www.federalregister.gov/documents/2024/04/22/2024-08622/export-control-measures-under-the-export-administration-regulations-ear-to-address-iranian",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2024-09076",
+    "title": "Amendment to Existing Controls on Russia and Belarus Under the Export Administration Regulations (EAR) Adding New License Exception Medical Devices (MED); Corrections",
+    "publication_date": "2024-04-29",
+    "effective_on": "2024-04-29",
+    "html_url": "https://www.federalregister.gov/documents/2024/04/29/2024-09076/amendment-to-existing-controls-on-russia-and-belarus-under-the-export-administration-regulations-ear",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2024-08813",
+    "title": "Revision of Firearms License Requirements",
+    "publication_date": "2024-04-30",
+    "effective_on": "2024-05-30",
+    "html_url": "https://www.federalregister.gov/documents/2024/04/30/2024-08813/revision-of-firearms-license-requirements",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2024-10485",
+    "title": "Additions of Entities to the Entity List",
+    "publication_date": "2024-05-14",
+    "effective_on": "2024-05-09",
+    "html_url": "https://www.federalregister.gov/documents/2024/05/14/2024-10485/additions-of-entities-to-the-entity-list",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2024-10725",
+    "title": "Revisions of the Section 232 Steel and Aluminum Tariff Exclusions Process",
+    "publication_date": "2024-05-20",
+    "effective_on": "2024-07-01",
+    "html_url": "https://www.federalregister.gov/documents/2024/05/20/2024-10725/revisions-of-the-section-232-steel-and-aluminum-tariff-exclusions-process",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2024-13148",
+    "title": "Implementation of Additional Sanctions Against Russia and Belarus Under the Export Administration Regulations (EAR) and Refinements to Existing Controls",
+    "publication_date": "2024-06-18",
+    "effective_on": "2024-06-12",
+    "html_url": "https://www.federalregister.gov/documents/2024/06/18/2024-13148/implementation-of-additional-sanctions-against-russia-and-belarus-under-the-export-administration",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2024-13695",
+    "title": "Additions to the Entity List",
+    "publication_date": "2024-06-24",
+    "effective_on": "2024-06-24",
+    "html_url": "https://www.federalregister.gov/documents/2024/06/24/2024-13695/additions-to-the-entity-list",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2024-14635",
+    "title": "Addition of Entities and Revision of Entries on the Entity List",
+    "publication_date": "2024-07-03",
+    "effective_on": "2024-07-03",
+    "html_url": "https://www.federalregister.gov/documents/2024/07/03/2024-14635/addition-of-entities-and-revision-of-entries-on-the-entity-list",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2024-14642",
+    "title": "The Unverified List; Additions and Removals",
+    "publication_date": "2024-07-03",
+    "effective_on": "2024-07-03",
+    "html_url": "https://www.federalregister.gov/documents/2024/07/03/2024-14642/the-unverified-list-additions-and-removals",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2024-15258",
+    "title": "Redesignation of Regulations for Securing the Information and Communications Technology and Services Supply Chain",
+    "publication_date": "2024-07-18",
+    "effective_on": "2024-07-18",
+    "html_url": "https://www.federalregister.gov/documents/2024/07/18/2024-15258/redesignation-of-regulations-for-securing-the-information-and-communications-technology-and-services",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Office of the Secretary"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2024-15810",
+    "title": "Standards-Related Activities and the Export Administration Regulations",
+    "publication_date": "2024-07-18",
+    "effective_on": "2024-07-18",
+    "html_url": "https://www.federalregister.gov/documents/2024/07/18/2024-15810/standards-related-activities-and-the-export-administration-regulations",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2024-15370",
+    "title": "Clarifications and Updates to Defense Priorities and Allocations System Regulation",
+    "publication_date": "2024-07-22",
+    "effective_on": "2024-08-21",
+    "html_url": "https://www.federalregister.gov/documents/2024/07/22/2024-15370/clarifications-and-updates-to-defense-priorities-and-allocations-system-regulation",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2024-16379",
+    "title": "Standards-Related Activities and the Export Administration Regulations; Corrections",
+    "publication_date": "2024-07-25",
+    "effective_on": "2024-07-25",
+    "html_url": "https://www.federalregister.gov/documents/2024/07/25/2024-16379/standards-related-activities-and-the-export-administration-regulations-corrections",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2024-16566",
+    "title": "Iran Foreign Direct Product Rule",
+    "publication_date": "2024-07-26",
+    "effective_on": "2024-07-23",
+    "html_url": "https://www.federalregister.gov/documents/2024/07/26/2024-16566/iran-foreign-direct-product-rule",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2024-19130",
+    "title": "Revisions to the Entity List",
+    "publication_date": "2024-08-27",
+    "effective_on": "2024-08-27",
+    "html_url": "https://www.federalregister.gov/documents/2024/08/27/2024-19130/revisions-to-the-entity-list",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2024-19132",
+    "title": "Implementation of Additional Sanctions Against Russia and Belarus Under the Export Administration Regulations (EAR); and Corrections",
+    "publication_date": "2024-08-27",
+    "effective_on": "2024-08-27",
+    "html_url": "https://www.federalregister.gov/documents/2024/08/27/2024-19132/implementation-of-additional-sanctions-against-russia-and-belarus-under-the-export-administration",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2024-19633",
+    "title": "Commerce Control List Additions and Revisions; Implementation of Controls on Advanced Technologies Consistent With Controls Implemented by International Partners",
+    "publication_date": "2024-09-06",
+    "effective_on": "2024-09-06",
+    "html_url": "https://www.federalregister.gov/documents/2024/09/06/2024-19633/commerce-control-list-additions-and-revisions-implementation-of-controls-on-advanced-technologies",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2024-21013",
+    "title": "Administrative and Enforcement Provisions",
+    "publication_date": "2024-09-16",
+    "effective_on": "2024-09-16",
+    "html_url": "https://www.federalregister.gov/documents/2024/09/16/2024-21013/administrative-and-enforcement-provisions",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2024-21109",
+    "title": "Addition of Entities to the Entity List",
+    "publication_date": "2024-09-16",
+    "effective_on": null,
+    "html_url": "https://www.federalregister.gov/documents/2024/09/16/2024-21109/addition-of-entities-to-the-entity-list",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2024-22587",
+    "title": "Expansion of Validated End User Authorization: Data Center Validated End User Authorization",
+    "publication_date": "2024-10-02",
+    "effective_on": "2024-10-02",
+    "html_url": "https://www.federalregister.gov/documents/2024/10/02/2024-22587/expansion-of-validated-end-user-authorization-data-center-validated-end-user-authorization",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2024-23638",
+    "title": "Revisions to the Unverified List",
+    "publication_date": "2024-10-16",
+    "effective_on": "2024-10-16",
+    "html_url": "https://www.federalregister.gov/documents/2024/10/16/2024-23638/revisions-to-the-unverified-list",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2024-23958",
+    "title": "Export Administration Regulations: Revisions to Space-Related Export Controls",
+    "publication_date": "2024-10-23",
+    "effective_on": "2024-10-23",
+    "html_url": "https://www.federalregister.gov/documents/2024/10/23/2024-23958/export-administration-regulations-revisions-to-space-related-export-controls",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2024-24562",
+    "title": "Addition of Entities, Revision of an Entry, and Removal of Entries on the Entity List",
+    "publication_date": "2024-10-23",
+    "effective_on": "2024-10-23",
+    "html_url": "https://www.federalregister.gov/documents/2024/10/23/2024-24562/addition-of-entities-revision-of-an-entry-and-removal-of-entries-on-the-entity-list",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2024-25411",
+    "title": "Additions and Revisions of Entities to the Entity List",
+    "publication_date": "2024-11-01",
+    "effective_on": "2024-11-01",
+    "html_url": "https://www.federalregister.gov/documents/2024/11/01/2024-25411/additions-and-revisions-of-entities-to-the-entity-list",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2024-25445",
+    "title": "Implementation of Additional Export Controls Against Russia and Belarus Under the Export Administration Regulations (EAR); and Clarifications",
+    "publication_date": "2024-11-01",
+    "effective_on": "2024-11-01",
+    "html_url": "https://www.federalregister.gov/documents/2024/11/01/2024-25445/implementation-of-additional-export-controls-against-russia-and-belarus-under-the-export",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2024-27648",
+    "title": "Implementation of Additional Controls on Pakistan",
+    "publication_date": "2024-11-26",
+    "effective_on": "2024-12-26",
+    "html_url": "https://www.federalregister.gov/documents/2024/11/26/2024-27648/implementation-of-additional-controls-on-pakistan",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2024-28423",
+    "title": "Public Briefing on Changes to Advanced Computing and Semiconductor Manufacturing Items",
+    "publication_date": "2024-12-04",
+    "effective_on": null,
+    "html_url": "https://www.federalregister.gov/documents/2024/12/04/2024-28423/public-briefing-on-changes-to-advanced-computing-and-semiconductor-manufacturing-items",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2024-28267",
+    "title": "Additions and Modifications to the Entity List; Removals From the Validated End-User (VEU) Program",
+    "publication_date": "2024-12-05",
+    "effective_on": "2024-12-02",
+    "html_url": "https://www.federalregister.gov/documents/2024/12/05/2024-28267/additions-and-modifications-to-the-entity-list-removals-from-the-validated-end-user-veu-program",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2024-28270",
+    "title": "Foreign-Produced Direct Product Rule Additions, and Refinements to Controls for Advanced Computing and Semiconductor Manufacturing Items",
+    "publication_date": "2024-12-05",
+    "effective_on": "2024-12-02",
+    "html_url": "https://www.federalregister.gov/documents/2024/12/05/2024-28270/foreign-produced-direct-product-rule-additions-and-refinements-to-controls-for-advanced-computing",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2024-29136",
+    "title": "Additions to the Entity List",
+    "publication_date": "2024-12-11",
+    "effective_on": "2024-12-11",
+    "html_url": "https://www.federalregister.gov/documents/2024/12/11/2024-29136/additions-to-the-entity-list",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2024-30425",
+    "title": "Implementation of Certain Australia Group Decisions",
+    "publication_date": "2024-12-23",
+    "effective_on": "2024-12-23",
+    "html_url": "https://www.federalregister.gov/documents/2024/12/23/2024-30425/implementation-of-certain-australia-group-decisions",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2024-31468",
+    "title": "Revisions to the Entity List",
+    "publication_date": "2025-01-06",
+    "effective_on": "2025-01-06",
+    "html_url": "https://www.federalregister.gov/documents/2025/01/06/2024-31468/revisions-to-the-entity-list",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2025-00636",
+    "title": "Framework for Artificial Intelligence Diffusion",
+    "publication_date": "2025-01-15",
+    "effective_on": "2025-01-13",
+    "html_url": "https://www.federalregister.gov/documents/2025/01/15/2025-00636/framework-for-artificial-intelligence-diffusion",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2025-00637",
+    "title": "Public Briefing on Framework for Artificial Intelligence Diffusion",
+    "publication_date": "2025-01-15",
+    "effective_on": null,
+    "html_url": "https://www.federalregister.gov/documents/2025/01/15/2025-00637/public-briefing-on-framework-for-artificial-intelligence-diffusion",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2025-00592",
+    "title": "Securing the Information and Communications Technology and Services Supply Chain: Connected Vehicles",
+    "publication_date": "2025-01-16",
+    "effective_on": "2025-03-17",
+    "html_url": "https://www.federalregister.gov/documents/2025/01/16/2025-00592/securing-the-information-and-communications-technology-and-services-supply-chain-connected-vehicles",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2025-00711",
+    "title": "Implementation of Additional Due Diligence Measures for Advanced Computing Integrated Circuits; Amendments and Clarifications; and Extension of Comment Period",
+    "publication_date": "2025-01-16",
+    "effective_on": "2025-01-16",
+    "html_url": "https://www.federalregister.gov/documents/2025/01/16/2025-00711/implementation-of-additional-due-diligence-measures-for-advanced-computing-integrated-circuits",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2025-00480",
+    "title": "Additions to the Entity List",
+    "publication_date": "2025-01-16",
+    "effective_on": "2025-01-16",
+    "html_url": "https://www.federalregister.gov/documents/2025/01/16/2025-00480/additions-to-the-entity-list",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2025-00704",
+    "title": "Addition of Entities to and Revision of Entry on the Entity List",
+    "publication_date": "2025-01-16",
+    "effective_on": "2025-01-16",
+    "html_url": "https://www.federalregister.gov/documents/2025/01/16/2025-00704/addition-of-entities-to-and-revision-of-entry-on-the-entity-list",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2025-00723",
+    "title": "Controls on Certain Laboratory Equipment and Related Technology To Address Dual Use Concerns About Biotechnology",
+    "publication_date": "2025-01-16",
+    "effective_on": "2025-01-16",
+    "html_url": "https://www.federalregister.gov/documents/2025/01/16/2025-00723/controls-on-certain-laboratory-equipment-and-related-technology-to-address-dual-use-concerns-about",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2025-02655",
+    "title": "Implementation of Additional Due Diligence Measures for Advanced Computing Integrated Circuits; Amendments and Clarifications; and Extension of Comment Period; Correction",
+    "publication_date": "2025-02-14",
+    "effective_on": "2025-02-11",
+    "html_url": "https://www.federalregister.gov/documents/2025/02/14/2025-02655/implementation-of-additional-due-diligence-measures-for-advanced-computing-integrated-circuits",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2025-05427",
+    "title": "Additions to the Entity List",
+    "publication_date": "2025-03-28",
+    "effective_on": "2025-03-25",
+    "html_url": "https://www.federalregister.gov/documents/2025/03/28/2025-05427/additions-to-the-entity-list",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2025-05426",
+    "title": "Additions and Modifications to the Entity List",
+    "publication_date": "2025-03-28",
+    "effective_on": "2025-03-28",
+    "html_url": "https://www.federalregister.gov/documents/2025/03/28/2025-05426/additions-and-modifications-to-the-entity-list",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2025-07185",
+    "title": "Revisions to the Unverified List",
+    "publication_date": "2025-04-25",
+    "effective_on": "2025-04-25",
+    "html_url": "https://www.federalregister.gov/documents/2025/04/25/2025-07185/revisions-to-the-unverified-list",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2025-07676",
+    "title": "Adoption and Procedures of the Section 232 Steel and Aluminum Tariff Inclusions Process",
+    "publication_date": "2025-05-02",
+    "effective_on": "2025-04-30",
+    "html_url": "https://www.federalregister.gov/documents/2025/05/02/2025-07676/adoption-and-procedures-of-the-section-232-steel-and-aluminum-tariff-inclusions-process",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2025-16735",
+    "title": "Revocation of Validated End-User Authorizations in the People's Republic of China",
+    "publication_date": "2025-09-02",
+    "effective_on": "2025-12-31",
+    "html_url": "https://www.federalregister.gov/documents/2025/09/02/2025-16735/revocation-of-validated-end-user-authorizations-in-the-peoples-republic-of-china",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2025-16724",
+    "title": "Relaxing Export Controls for Syria",
+    "publication_date": "2025-09-02",
+    "effective_on": "2025-09-02",
+    "html_url": "https://www.federalregister.gov/documents/2025/09/02/2025-16724/relaxing-export-controls-for-syria",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2025-17893",
+    "title": "Additions and Revisions to the Entity List",
+    "publication_date": "2025-09-16",
+    "effective_on": "2025-09-12",
+    "html_url": "https://www.federalregister.gov/documents/2025/09/16/2025-17893/additions-and-revisions-to-the-entity-list",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2025-18015",
+    "title": "Adoption and Procedures of the Section 232 Automobile Parts Tariff Inclusions Process",
+    "publication_date": "2025-09-17",
+    "effective_on": "2025-09-17",
+    "html_url": "https://www.federalregister.gov/documents/2025/09/17/2025-18015/adoption-and-procedures-of-the-section-232-automobile-parts-tariff-inclusions-process",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2025-18992",
+    "title": "Revision of Firearms License Requirements",
+    "publication_date": "2025-09-30",
+    "effective_on": "2025-09-30",
+    "html_url": "https://www.federalregister.gov/documents/2025/09/30/2025-18992/revision-of-firearms-license-requirements",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2025-19001",
+    "title": "Expansion of End-User Controls To Cover Affiliates of Certain Listed Entities",
+    "publication_date": "2025-09-30",
+    "effective_on": "2025-09-29",
+    "html_url": "https://www.federalregister.gov/documents/2025/09/30/2025-19001/expansion-of-end-user-controls-to-cover-affiliates-of-certain-listed-entities",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2025-19508",
+    "title": "Additions to the Entity List",
+    "publication_date": "2025-10-09",
+    "effective_on": "2025-10-08",
+    "html_url": "https://www.federalregister.gov/documents/2025/10/09/2025-19508/additions-to-the-entity-list",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2025-19846",
+    "title": "One Year Suspension of Expansion of End-User Controls for Affiliates of Certain Listed Entities",
+    "publication_date": "2025-11-12",
+    "effective_on": "2025-11-10",
+    "html_url": "https://www.federalregister.gov/documents/2025/11/12/2025-19846/one-year-suspension-of-expansion-of-end-user-controls-for-affiliates-of-certain-listed-entities",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2025-19858",
+    "title": "Revisions to the Entity List",
+    "publication_date": "2025-11-12",
+    "effective_on": "2025-11-10",
+    "html_url": "https://www.federalregister.gov/documents/2025/11/12/2025-19858/revisions-to-the-entity-list",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2026-00789",
+    "title": "Revision to License Review Policy for Advanced Computing Commodities",
+    "publication_date": "2026-01-15",
+    "effective_on": "2026-01-15",
+    "html_url": "https://www.federalregister.gov/documents/2026/01/15/2026-00789/revision-to-license-review-policy-for-advanced-computing-commodities",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2026-01059",
+    "title": "Streamlining Export Controls for Drone Exports",
+    "publication_date": "2026-01-21",
+    "effective_on": "2026-01-20",
+    "html_url": "https://www.federalregister.gov/documents/2026/01/21/2026-01059/streamlining-export-controls-for-drone-exports",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2026-06851",
+    "title": "Extension of Authorized Integrated Circuit (IC) Designer Status and Application Deadline To Become an Approved IC Designer",
+    "publication_date": "2026-04-09",
+    "effective_on": "2026-04-07",
+    "html_url": "https://www.federalregister.gov/documents/2026/04/09/2026-06851/extension-of-authorized-integrated-circuit-ic-designer-status-and-application-deadline-to-become-an",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2026-14132",
+    "title": "Enhanced Favorable Treatment for the United Arab Emirates Under the Export Administration Regulations",
+    "publication_date": "2026-07-14",
+    "effective_on": "2026-07-10",
+    "html_url": "https://www.federalregister.gov/documents/2026/07/14/2026-14132/enhanced-favorable-treatment-for-the-united-arab-emirates-under-the-export-administration",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  },
+  {
+    "document_number": "2026-14942",
+    "title": "Implementation of EAR Export Controls on Silencers, Mufflers, and Sound Suppressors; and Other Firearms Related Changes",
+    "publication_date": "2026-07-23",
+    "effective_on": "2026-11-20",
+    "html_url": "https://www.federalregister.gov/documents/2026/07/23/2026-14942/implementation-of-ear-export-controls-on-silencers-mufflers-and-sound-suppressors-and-other-firearms",
+    "type": "Rule",
+    "agencies": [
+      {
+        "raw_name": "DEPARTMENT OF COMMERCE",
+        "name": "Commerce Department",
+        "id": 54,
+        "url": "https://www.federalregister.gov/agencies/commerce-department",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+        "parent_id": null,
+        "slug": "commerce-department"
+      },
+      {
+        "raw_name": "Bureau of Industry and Security",
+        "name": "Industry and Security Bureau",
+        "id": 241,
+        "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+        "parent_id": 54,
+        "slug": "industry-and-security-bureau"
+      }
+    ]
+  }
+]
