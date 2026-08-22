@@ -43,6 +43,8 @@ from config import (
     COMTRADE_API_KEY,
     HS_CODES,
     ISO3_TO_NAME,
+    ORIGIN_DECOMPOSITION_COUNTRIES,
+    ORIGIN_DECOMPOSITION_TARGET,
     RAW_DIR,
     REQUEST_DELAY_SECONDS,
     TRADE_END_YEAR,
@@ -82,7 +84,11 @@ def _cache_path(freq: str, reporter_code: int, partner_code: int, period: str,
 
 def _get_cached(freq: str, reporter_code: int, partner_code: int, period: str,
                  flow_code: str = "M", cmd_code: str = CMD_CODES) -> list[dict]:
-    cmd_label = "TOTAL" if cmd_code == "TOTAL" else "hs6set"
+    # Label derived from the ACTUAL cmd_code requested, not a coarse TOTAL/not-TOTAL
+    # split -- a single-code call (e.g. just "848620" for origin decomposition) must
+    # get a distinct cache file from the full 6-code CMD_CODES call for the same
+    # reporter/partner/period, or the two would silently collide on one filename.
+    cmd_label = "hs6set" if cmd_code == CMD_CODES else cmd_code.replace(",", "-")
     path = _cache_path(freq, reporter_code, partner_code, period, flow_code, cmd_label)
     if os.path.exists(path):
         with open(path) as f:
@@ -103,7 +109,18 @@ def _get_cached(freq: str, reporter_code: int, partner_code: int, period: str,
         headers = {}
 
     for attempt in range(MAX_RETRIES):
-        resp = requests.get(url, params=params, headers=headers, timeout=30)
+        try:
+            resp = requests.get(url, params=params, headers=headers, timeout=30)
+        except requests.exceptions.RequestException as exc:
+            # Network-level failures (read timeouts, connection resets) don't raise
+            # an HTTP status code to check -- an earlier version of this loop only
+            # retried on 429/5xx and let a raw ReadTimeout crash the whole run after
+            # ~100 successful calls. Caught live when a real fetch died here.
+            wait = BACKOFF_BASE_SECONDS * (2 ** attempt)
+            print(f"  {type(exc).__name__} on {reporter_code}/{partner_code}/{period}, "
+                  f"backing off {wait}s (attempt {attempt + 1}/{MAX_RETRIES})")
+            time.sleep(wait)
+            continue
         if resp.status_code == 429 or resp.status_code >= 500:
             wait = BACKOFF_BASE_SECONDS * (2 ** attempt)
             print(f"  {resp.status_code} on {reporter_code}/{partner_code}/{period}, "
@@ -185,15 +202,44 @@ def fetch_annual_total_trade_baseline(reporter_codes: dict) -> list[dict]:
     return rows
 
 
-def fetch_monthly(reporter_iso3: str, partner_iso3: str, months: list[str]) -> list[dict]:
-    """Targeted monthly pull, e.g. months=["202209","202210",...]. See module docstring
-    for why this is not run for the full grid up front."""
+def fetch_origin_decomposition() -> list[dict]:
+    """Single HS6/partner target, exports from each of ORIGIN_DECOMPOSITION_COUNTRIES
+    -- targeted follow-up analysis, not part of the full grid (see config.py's
+    ORIGIN_DECOMPOSITION_TARGET comment for why). USA's series here duplicates
+    fetch_annual_grid's USA->HKG/848620 pull; the cache means that specific call
+    resolves instantly rather than re-fetching."""
+    reporter_codes = _reporter_codes()
+    partner = ORIGIN_DECOMPOSITION_TARGET["partner"]
+    hs6 = ORIGIN_DECOMPOSITION_TARGET["hs6"]
+    p_code = reporter_codes[partner]
+    rows = []
+    for origin_iso3 in ORIGIN_DECOMPOSITION_COUNTRIES:
+        r_code = reporter_codes[origin_iso3]
+        for year in range(TRADE_START_YEAR, TRADE_END_YEAR + 1):
+            rows.extend(_get_cached("A", r_code, p_code, str(year), flow_code="X", cmd_code=hs6))
+            time.sleep(REQUEST_DELAY_SECONDS)
+    return rows
+
+
+def fetch_monthly(reporter_iso3: str, partner_iso3: str, months: list[str],
+                   flow_code: str) -> list[dict]:
+    """Targeted monthly pull, e.g. months=["202209","202210",...].
+
+    flow_code is REQUIRED, not defaulted -- an earlier version of this function
+    silently defaulted to "M" (imports), which meant a call intended to mirror the
+    annual corridor series (USA's EXPORTS to a hub, flow="X") actually pulled
+    "USA's imports from the hub" instead: a completely different, much smaller
+    trade flow ($1.7M summed for 2023 vs. the correct $49.5M in exports). Caught
+    by cross-checking the monthly sum against the known-correct annual figure.
+    Making the caller state flow_code explicitly closes off that silent-default
+    failure mode for good.
+    """
     reporter_codes = _reporter_codes()
     r_code = reporter_codes[reporter_iso3]
     p_code = reporter_codes[partner_iso3]
     rows = []
     for period in months:
-        rows.extend(_get_cached("M", r_code, p_code, period))
+        rows.extend(_get_cached("M", r_code, p_code, period, flow_code=flow_code))
         time.sleep(REQUEST_DELAY_SECONDS)
     return rows
 
@@ -224,6 +270,11 @@ def main():
     with open(f"{RAW_DIR}/comtrade_annual_total_baseline.json", "w") as f:
         json.dump(total_baseline, f, indent=2)
     print(f"Wrote {len(total_baseline)} hub-total-trade-year rows to comtrade_annual_total_baseline.json")
+
+    origin_decomp = fetch_origin_decomposition()
+    with open(f"{RAW_DIR}/comtrade_origin_decomposition.json", "w") as f:
+        json.dump(origin_decomp, f, indent=2)
+    print(f"Wrote {len(origin_decomp)} origin-year rows to comtrade_origin_decomposition.json")
 
 
 if __name__ == "__main__":

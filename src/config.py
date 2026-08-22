@@ -69,10 +69,29 @@ ISO3_TO_NAME = {
     "SGP": "Singapore",
     "HKG": "China, Hong Kong SAR",
     "CHN": "China",
+    "JPN": "Japan",
+    "NLD": "Netherlands",
+    "KOR": "Republic of Korea",
 }
 
 TRADE_START_YEAR = 2017
 TRADE_END_YEAR = 2026
+
+# --- Origin decomposition (external-review follow-up) ----------------------------
+# The growth-gap signal compares one origin (USA) against a hub's ALL-origin trade
+# growth -- three different universes (US->hub, World->hub, hub->China) that one
+# signal can't fully separate (see build_risk_score.sql's Signal 1 note). This
+# decomposes the top substantive finding's growth by ACTUAL origin country to check
+# whether growth is broad-based (legitimate hub-wide demand) or concentrated in
+# controlled-origin exporters specifically (diversion-consistent). Countries chosen
+# are the real major exporters of semiconductor MANUFACTURING EQUIPMENT (HS 848620)
+# -- USA (Applied Materials, Lam Research, KLA), Japan (Tokyo Electron, Screen),
+# Netherlands (ASML), South Korea. Taiwan is deliberately excluded: Comtrade has no
+# standalone Taiwan reporter code (folded into "Other Asia, nes"), and Taiwan is
+# overwhelmingly an EQUIPMENT IMPORTER for TSMC's own fabs, not an equipment
+# exporter, so its absence doesn't meaningfully weaken this specific decomposition.
+ORIGIN_DECOMPOSITION_TARGET = {"partner": "HKG", "hs6": "848620"}
+ORIGIN_DECOMPOSITION_COUNTRIES = ["USA", "JPN", "NLD", "KOR"]
 
 # --- Federal Register pull ------------------------------------------------------
 FEDERAL_REGISTER_API = "https://www.federalregister.gov/api/v1/articles.json"
