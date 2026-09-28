@@ -1,8 +1,8 @@
-# Raw pulls reproduce via `make fetch` — keep large/volatile downloads out of git
+# Raw pulls reproduce via `make fetch`: keep large/volatile downloads out of git
 data/raw/*
 !data/raw/.gitkeep
 
-# Comtrade, Census, and SingStat are live series — a re-pull on a different day can
+# Comtrade, Census, and SingStat are live series: a re-pull on a different day can
 # include a new revision or a new month of data and silently shift risk tiers.
 # EXCEPTION: pin the Federal Register control-date timeline, since it's the one series
 # that must stay identical across runs for the event-proximity signal to reproduce.
@@ -12,7 +12,7 @@ data/raw/*
 data/processed/*.db
 data/processed/*.csv
 
-# Secrets — Comtrade/Census API keys, never committed
+# Secrets: Comtrade/Census API keys, never committed
 src/secrets.py
 .env
 

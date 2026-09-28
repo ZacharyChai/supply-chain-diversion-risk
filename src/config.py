@@ -26,7 +26,7 @@ REQUEST_DELAY_SECONDS = 1.0  # be a polite citizen on all three public APIs;
 # --- HS6 code registry ----------------------------------------------------------
 # Verified live against the UN Stats Classification Registry
 # (https://unstats.un.org/unsd/classifications/Econ/Detail/EN/2089/8542) on
-# 2026-07-29, NOT pulled from memory — see project brief's warning that these
+# 2026-07-29, NOT pulled from memory; see project brief's warning that these
 # groupings get revised. Heading 8542 has exactly five HS6 children in both HS2017
 # and HS2022: 854231/32/33/39/90. The brief's original list included 854242 and
 # 854243, which do not exist under current WCO nomenclature (854239 already covers
@@ -97,9 +97,9 @@ ORIGIN_DECOMPOSITION_COUNTRIES = ["USA", "JPN", "NLD", "KOR"]
 FEDERAL_REGISTER_API = "https://www.federalregister.gov/api/v1/articles.json"
 BIS_CONTROL_DATES_PATH = f"{RAW_DIR}/bis_control_dates.json"
 # BIS export control tightening on advanced semiconductors began in earnest here;
-# see project brief. Pulled live each run — do not hardcode specific rule dates.
+# see project brief. Pulled live each run: do not hardcode specific rule dates.
 BIS_SEARCH_START_DATE = "2022-10-01"
 # Verified live against https://www.federalregister.gov/api/v1/agencies.json on
-# 2026-07-29 — the FR API's slug for BIS is "industry-and-security-bureau", not the
+# 2026-07-29: the FR API's slug for BIS is "industry-and-security-bureau", not the
 # more intuitive "bureau-of-industry-and-security".
 BIS_AGENCY_SLUG = "industry-and-security-bureau"

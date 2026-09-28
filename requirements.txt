@@ -1,5 +1,5 @@
-# Semiconductor Trade Diversion Risk — pinned-loose, deliberately boring stack
+# Semiconductor Trade Diversion Risk: pinned-loose, deliberately boring stack
 requests>=2.31      # Comtrade Plus / Census / Federal Register HTTP pulls
 pandas>=2.1         # tidy long-format trade table
 matplotlib>=3.8     # timeline + tier charts
-# SQLite ships with the Python standard library (sqlite3) — no dependency needed.
+# SQLite ships with the Python standard library (sqlite3): no dependency needed.

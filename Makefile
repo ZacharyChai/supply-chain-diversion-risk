@@ -1,4 +1,4 @@
-# Semiconductor Trade Diversion Risk — one command reproduces everything end to end.
+# Semiconductor Trade Diversion Risk: one command reproduces everything end to end.
 # `make all` runs the full pipeline from a clean clone.
 
 VENV   := .venv
